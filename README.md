@@ -6,4 +6,4 @@ I’m currently working on some personal projects in different languages so that
 
 In my free time I love playing games (:video_game:). I prefer First Person Shooters (:gun:) but right now I'm training on some Real-Time Strategy (:crossed_flags:) like Warcraft III, StarCraft II and some Civilization VI, the last one isn't a RTS btw :stuck_out_tongue_closed_eyes:.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipefialho)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bernardosod/)
